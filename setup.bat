@@ -1,8 +1,8 @@
 @echo off
-title Kakao Downloader - Setup
+Setup
 echo.
 echo  ================================================
-echo   Kakao Emoticon Downloader - Setup
+echo  Setup
 echo  ================================================
 echo.
 echo  [1/3] Checking Python...
